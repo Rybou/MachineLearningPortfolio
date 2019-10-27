@@ -1,4 +1,4 @@
-Project 2
+Project 2:
 P2BestPerformingModel.ipynb:
        Class that contains our best performing model
 
